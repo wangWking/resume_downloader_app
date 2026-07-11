@@ -1,0 +1,17 @@
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+data/*.db
+logs/*.log
+
+.Python
+.venv/
+venv/
+env/
+
+.DS_Store
+Thumbs.db
